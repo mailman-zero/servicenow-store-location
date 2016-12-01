@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <enforce_license>log</enforce_license>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <logo/>
+        <menu display_value="Store">73ae45774f1322005ea3b2718110c71f</menu>
+        <name>Store</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_70349_store</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_70349_store</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-12-01 20:36:35</sys_created_on>
+        <sys_id>e7ae4d374f1322005ea3b2718110c70c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-12-01 20:36:35</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role display_value="x_70349_store.user" name="x_70349_store.user">bbae45774f1322005ea3b2718110c71f</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+</record_update>
